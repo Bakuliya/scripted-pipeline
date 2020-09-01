@@ -17,4 +17,4 @@ node{
                 terraform-0.13 apply -auto-approve
             '''
         }
-    }   
+    }    
